@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 434,
+    "left": 0,
+    "width": 8134,
+    "height": 10845,
+    "isRotated": false,
+    "originalWidth": 8134,
+    "originalHeight": 11715
+  },
+  "imagePath": "image-targets/FACUNDO_PIPUTTO_MECHA_target_luminance.png",
+  "metadata": null,
+  "name": "FACUNDO_PIPUTTO_MECHA_target",
+  "resources": {
+    "originalImage": "FACUNDO_PIPUTTO_MECHA_target_original.png",
+    "croppedImage": "FACUNDO_PIPUTTO_MECHA_target_cropped.png",
+    "thumbnailImage": "FACUNDO_PIPUTTO_MECHA_target_thumbnail.png",
+    "luminanceImage": "FACUNDO_PIPUTTO_MECHA_target_luminance.png"
+  },
+  "created": 1791857527402,
+  "updated": 1791857527402
+}
