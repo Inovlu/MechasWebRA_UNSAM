@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 315,
+    "left": 0,
+    "width": 8143,
+    "height": 10857,
+    "isRotated": false,
+    "originalWidth": 8143,
+    "originalHeight": 11488
+  },
+  "imagePath": "image-targets/AMY_LINDO_BLOODLUST-MECHA_diseno_V2_nombre_luminance.png",
+  "metadata": null,
+  "name": "AMY_LINDO_BLOODLUST-MECHA_diseno_V2_nombre",
+  "resources": {
+    "originalImage": "AMY_LINDO_BLOODLUST-MECHA_diseno_V2_nombre_original.png",
+    "croppedImage": "AMY_LINDO_BLOODLUST-MECHA_diseno_V2_nombre_cropped.png",
+    "thumbnailImage": "AMY_LINDO_BLOODLUST-MECHA_diseno_V2_nombre_thumbnail.png",
+    "luminanceImage": "AMY_LINDO_BLOODLUST-MECHA_diseno_V2_nombre_luminance.png"
+  },
+  "created": 1792381877510,
+  "updated": 1792381877510
+}

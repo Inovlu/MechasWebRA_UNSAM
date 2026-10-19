@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 282,
+    "left": 0,
+    "width": 8139,
+    "height": 10852,
+    "isRotated": false,
+    "originalWidth": 8139,
+    "originalHeight": 11417
+  },
+  "imagePath": "image-targets/JULIETA_ASCONA_MECHA_diseno_V3_nombre_luminance.png",
+  "metadata": null,
+  "name": "JULIETA_ASCONA_MECHA_diseno_V3_nombre",
+  "resources": {
+    "originalImage": "JULIETA_ASCONA_MECHA_diseno_V3_nombre_original.png",
+    "croppedImage": "JULIETA_ASCONA_MECHA_diseno_V3_nombre_cropped.png",
+    "thumbnailImage": "JULIETA_ASCONA_MECHA_diseno_V3_nombre_thumbnail.png",
+    "luminanceImage": "JULIETA_ASCONA_MECHA_diseno_V3_nombre_luminance.png"
+  },
+  "created": 1792381916243,
+  "updated": 1792381916243
+}
