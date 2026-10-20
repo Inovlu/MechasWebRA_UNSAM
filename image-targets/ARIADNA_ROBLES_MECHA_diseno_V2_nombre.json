@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 715,
+    "width": 6689,
+    "height": 8919,
+    "isRotated": false,
+    "originalWidth": 8121,
+    "originalHeight": 8919
+  },
+  "imagePath": "image-targets/ARIADNA_ROBLES_MECHA_diseno_V2_nombre_luminance.png",
+  "metadata": null,
+  "name": "ARIADNA_ROBLES_MECHA_diseno_V2_nombre",
+  "resources": {
+    "originalImage": "ARIADNA_ROBLES_MECHA_diseno_V2_nombre_original.png",
+    "croppedImage": "ARIADNA_ROBLES_MECHA_diseno_V2_nombre_cropped.png",
+    "thumbnailImage": "ARIADNA_ROBLES_MECHA_diseno_V2_nombre_thumbnail.png",
+    "luminanceImage": "ARIADNA_ROBLES_MECHA_diseno_V2_nombre_luminance.png"
+  },
+  "created": 1792381884009,
+  "updated": 1792381884009
+}

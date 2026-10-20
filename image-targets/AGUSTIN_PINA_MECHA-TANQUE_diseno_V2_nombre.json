@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 329,
+    "left": 0,
+    "width": 8154,
+    "height": 10872,
+    "isRotated": false,
+    "originalWidth": 8154,
+    "originalHeight": 11530
+  },
+  "imagePath": "image-targets/AGUSTIN_PINA_MECHA-TANQUE_diseno_V2_nombre_luminance.png",
+  "metadata": null,
+  "name": "AGUSTIN_PINA_MECHA-TANQUE_diseno_V2_nombre",
+  "resources": {
+    "originalImage": "AGUSTIN_PINA_MECHA-TANQUE_diseno_V2_nombre_original.png",
+    "croppedImage": "AGUSTIN_PINA_MECHA-TANQUE_diseno_V2_nombre_cropped.png",
+    "thumbnailImage": "AGUSTIN_PINA_MECHA-TANQUE_diseno_V2_nombre_thumbnail.png",
+    "luminanceImage": "AGUSTIN_PINA_MECHA-TANQUE_diseno_V2_nombre_luminance.png"
+  },
+  "created": 1792381841128,
+  "updated": 1792381841128
+}

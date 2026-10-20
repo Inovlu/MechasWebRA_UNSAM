@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 162,
+    "left": 0,
+    "width": 8121,
+    "height": 10828,
+    "isRotated": false,
+    "originalWidth": 8121,
+    "originalHeight": 11153
+  },
+  "imagePath": "image-targets/Abigail_Bernardez_Aegis-Vulpe_diseno_V1_nombre_luminance.png",
+  "metadata": null,
+  "name": "Abigail_Bernardez_Aegis-Vulpe_diseno_V1_nombre",
+  "resources": {
+    "originalImage": "Abigail_Bernardez_Aegis-Vulpe_diseno_V1_nombre_original.png",
+    "croppedImage": "Abigail_Bernardez_Aegis-Vulpe_diseno_V1_nombre_cropped.png",
+    "thumbnailImage": "Abigail_Bernardez_Aegis-Vulpe_diseno_V1_nombre_thumbnail.png",
+    "luminanceImage": "Abigail_Bernardez_Aegis-Vulpe_diseno_V1_nombre_luminance.png"
+  },
+  "created": 1792381640519,
+  "updated": 1792381685188
+}
